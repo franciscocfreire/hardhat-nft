@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg width="200" height="200">
+  <!-- Sol -->
+  <circle cx="50" cy="50" r="40" fill="yellow" />
+  <!-- Corpo do cachorro -->
+  <rect x="40" y="100" width="120" height="60" fill="#7B5B3B" />
+  <!-- Cabeça do cachorro -->
+  <rect x="100" y="50" width="60" height="60" fill="#7B5B3B" />
+  <!-- Orelhas do cachorro -->
+  <polygon points="100,50 120,20 140,50" fill="#A56D46" />
+  <polygon points="160,50 180,20 200,50" fill="#A56D46" />
+  <!-- Olhos do cachorro -->
+  <circle cx="125" cy="75" r="10" fill="white" />
+  <circle cx="175" cy="75" r="10" fill="white" />
+  <circle cx="125" cy="75" r="5" fill="black" />
+  <circle cx="175" cy="75" r="5" fill="black" />
+  <!-- Focinho do cachorro -->
+  <rect x="115" y="90" width="70" height="20" fill="#A56D46" />
+  <!-- Nariz do cachorro -->
+  <circle cx="130" cy="100" r="8" fill="black" />
+  <!-- Boca do cachorro -->
+  <path d="M130 120 Q150 130 170 120" fill="transparent" stroke="black" stroke-width="3" />
+  <!-- Pernas do cachorro -->
+  <rect x="50" y="150" width="30" height="50" fill="#A56D46" />
+  <rect x="120" y="150" width="30" height="50" fill="#A56D46" />
+</svg>
