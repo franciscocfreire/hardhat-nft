@@ -37,4 +37,4 @@ module.exports = async function({getNamedAccounts, deployments}){
 
 }
 
-module.exports.tags = ["all", "dynamicssvg", "main"]
+module.exports.tags = ["all", "dynamicsvg", "main"]
